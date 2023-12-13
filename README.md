@@ -1,2 +1,2 @@
 # Movie-Ticket-Booking-System
-Java project with mysql database
+Movie ticket booking system java project with mysql database
